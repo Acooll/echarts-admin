@@ -15,6 +15,12 @@ module.exports = {
     'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'indent': 'off',
     'no-trailing-spaces': 'off',
-    'eol-last': 'off'
+    'eol-last': 'off',
+    'comma-spacing': 'off',
+    'object-curly-spacing': 'off',
+    'key-spacing': 'off',
+    'no-multi-spaces':'off',
+    'space-before-function-paren': 'off'
+
   }
 }

@@ -27,13 +27,13 @@ export default {
   font-size 12px
   color #999
 .value
-  font-size 25px
-  colot #000
+  font-size 20px
+  color #000
   margin-top 5px
   letter-spacing 1px
+  font-weight 500
 .chart 
   height 50px
-  background yellow
 .line
   margin 10px 0
   border-top 1px solid #eee
