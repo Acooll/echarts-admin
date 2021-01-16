@@ -37,7 +37,6 @@ export default {
   .compare
     font-size 12px
     margin-top 3px
-    background yellow
     color #666
     display flex
     align-items center
@@ -62,5 +61,5 @@ export default {
   border-width 4px
   border-color green transparent transparent transparent
   border-style solid
-  margin 3 0 0 5px
+  margin 3px 0 0 5px
 </style>
